@@ -13,27 +13,41 @@ nav{
     background-color: #FE8515;
     grid-area: Header; 
     text-align: center;
+    color: whitesmoke;
 }
 #leftsidebar{
     background-color: #7FC242;
     grid-area: Left sidebar;
     text-align: center;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    display: flex;
 }
 main{
     background-color: #8BF10A;
     grid-area: Main Content;
     text-align: center;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    display: flex;
 }
 #rightsidebar{
     background-color: #7FC242;
     grid-area: Right sidebar;
     text-align: center;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    display: flex;
 }
 footer{
     background-color: #F57E20;
     grid-area: footer;
     text-align: center;
+    color: whitesmoke;
 }   
